@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "1022309695589",
+    "project_id": "mad-db-1a2d7",
+    "storage_bucket": "mad-db-1a2d7.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1022309695589:android:861d382b18306f0e29468c",
+        "android_client_info": {
+          "package_name": "com.moviedb.app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBRziXsN2fpQb2u1mF_7_Rvn-qHXgloUzU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1022309695589:android:5a8b6038d636648629468c",
+        "android_client_info": {
+          "package_name": "movie.db"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBRziXsN2fpQb2u1mF_7_Rvn-qHXgloUzU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
