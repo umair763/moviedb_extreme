@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # moviesearchapp
 
 One of my internship projects allows you to search for movies, bookmark them, and view all movies retrieved from the API.
@@ -13,3 +14,7 @@ One of my internship projects allows you to search for movies, bookmark them, an
 <img src="https://github.com/user-attachments/assets/494af20b-437f-4035-a210-ef8081189ed6" width="360" height="800">
 <img src="https://github.com/user-attachments/assets/fc8b4468-4a8a-4e4e-ab5d-e0dc51ffa49a" width="360" height="800">
 
+=======
+# moviedb_extreme
+A Flutter mobile app 
+>>>>>>> 9800a902c12ca791b7fbf6377c4dbebe7f1f80ae
