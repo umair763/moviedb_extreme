@@ -147,7 +147,9 @@ class _LoginPageState extends State<SignIn> {
 
         if (user != null) {
           showToast(message: "Sign-in successful!");
-          Navigator.pushNamed(context, "/home");
+          if (mounted) {
+            Navigator.pushNamed(context, "/home");
+          }
         } else {
           showToast(message: "Sign-in failed. Please try again.");
         }
